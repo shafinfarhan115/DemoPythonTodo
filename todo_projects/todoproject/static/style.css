@@ -1,0 +1,12 @@
+.banner{
+    background-color:lime;
+    width :100%;
+    height :200px;
+    margin-bottom:50px;
+}
+
+
+.banner-text{
+  padding-top: 70px;
+  padding-left: 680px;
+}
